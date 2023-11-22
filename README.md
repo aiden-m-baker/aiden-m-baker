@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aiden Baker</h1>
-<h3 align="center">A passionate video game developer (and sometimes web developer)!</h3>
+<h1 align="center">I'm Aiden Baker</h1>
+<h3 align="center">A passionate programmer and video game developer (and sometimes web developer)!</h3>
 
 - 🔭 I’m currently working on **Project EDX, an open world passion project.**
 
