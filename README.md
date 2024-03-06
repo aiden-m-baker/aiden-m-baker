@@ -1,9 +1,9 @@
 <h1 align="center">Aiden Baker</h1>
 <h3 align="center">A passionate programmer and video game developer (and sometimes web developer)!</h3>
 
-- 🔭 I’m currently working on **Project EDX, an open world passion project.**
+- 🔭 I’m currently working on **Sociostreamers, a resource-management party game** as well as **Project EDX, an open-world passion project**
 
-- 🌱 I’m currently learning **C++, accessibility in games, and the methodologies and history behind game gesign**
+- 🌱 I’m currently learning **C++, accessibility in games, and the methodologies and history behind game design**
 
 - 💬 Ask me about **Unity and Game Development in general.**
 
