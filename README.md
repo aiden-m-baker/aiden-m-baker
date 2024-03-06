@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Project EDX, an open world passion project.**
 
-- 🌱 I’m currently learning **3D modelling, Agents and their behaviors, and refreshing my knowledge on frontend web development.**
+- 🌱 I’m currently learning **C++, accessibility in games, and the methodologies and history behind game gesign**
 
 - 💬 Ask me about **Unity and Game Development in general.**
 
